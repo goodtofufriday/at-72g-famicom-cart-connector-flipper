@@ -8,4 +8,4 @@ this system doesnt connect expansion audio, so i added through hole pins for pin
 
 i havent tested this. but it should work. measurements are "super close". it may need a need shaving. unless its super off im not going to update this design. 
 
-feel free to use the library. it is a full famicome cart connector library for eagle that i made. 
+feel free to use the library. it is a full famiclone cart connector library for eagle that i made. 
