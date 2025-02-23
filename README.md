@@ -1,3 +1,7 @@
+at-72g famicom cart connector flipper
+
+for famiclones with the board labled at-72g. probably useable in similar famiclones.
+
 If youre looking here i imagine you know how to mod consoles so i wont go through the how to.
 
 this system doesnt connect expansion audio, so i added through hole pins for pin 45 and 46 so that you can easily re-enable it. 
